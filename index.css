@@ -50,27 +50,8 @@ p.poe{
     font-size: 30px;
     width: 360;
 }
-
-div.inpic{ 
-    background-color: grey;
-}
 img{
-    box-shadow: 5px 10px 10px #3f681c;
-    margin: 2%;
-    clear: left;
-}
-img.f916{
-    margin: 2% 2% 2% 5%;
-}
-
-img.cent{
-    margin: 7% 2% 7% 2%;
-}
-img.cent4{
-    margin: 10% 2% 10% 2%;
-}
-img.cent5{
-    margin: 12% 2% 12% 2%;
+    box-shadow: 10px 10px 10px 0px #2dd8b3;
 }
 
 
