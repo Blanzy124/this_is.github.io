@@ -45,7 +45,7 @@ u= >2000
         margin-left: auto;
         margin-right: auto;
         padding: 10px;
-
+        border-radius: 25px;
     }
     .imgbes{  /*Resolution for pictures on 'BE', same size pics*/
         width: 99.5%;
@@ -110,6 +110,7 @@ u= >2000
         padding: 70px;
         position: relative;
         float: left;
+        border-radius: 45px;
     }
     .imgbem{  /*Resolution for pictures on 'BE', same size pics*/
         width: 46%;
@@ -236,6 +237,7 @@ u= >2000
         padding: 90px;
         position: relative;
         float: left;
+        border-radius: 45px;
     }
     .imgbeh{  /*Resolution for pictures on 'BE', same size pics*/
         width: 23%;
@@ -358,6 +360,7 @@ u= >2000
         float: left;
         margin-left: 0.89%;
         margin-right: 0.89%;
+        border-radius: 45px;
         
     }
         /*From here pictures has diferents resolution*/
@@ -452,6 +455,7 @@ a.list:link, a.list:visited {
     text-decoration: none; /*This take out the underlines*/
     text-align: center;
     display: block;
+    border-radius: 3px;
 }
 a.list:hover{
     color: pink;
@@ -468,8 +472,10 @@ p.poe{
     background-color: #6fb98f;
     text-align: center;
     font-weight: bold;
-    box-shadow: 5px 10px 10px pink
+    box-shadow: 5px 10px 10px pink;
+    border-radius: 15px;
 }
+
 .toppic{
     color: #5bc8ac;
     text-align: center;
