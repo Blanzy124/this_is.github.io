@@ -8,6 +8,8 @@ u= >2000
 
 *{
     box-sizing: border-box;
+    padding: 0;
+    margin: 0;
 }
 /*Resoluiton Ids And Classes*/
 @media (max-width: 500px){
